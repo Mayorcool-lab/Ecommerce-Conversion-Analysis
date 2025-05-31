@@ -1,0 +1,201 @@
+user_id,device_type,traffic_source,user_type,location
+U001,tablet,paid_search,new,Suriname
+U002,desktop,paid_search,new,Croatia
+U003,desktop,organic,returning,Egypt
+U004,mobile,social,returning,Burkina Faso
+U005,tablet,email,returning,Monaco
+U006,tablet,email,new,Netherlands Antilles
+U007,desktop,paid_search,returning,Djibouti
+U008,tablet,email,returning,Montenegro
+U009,tablet,email,new,Wallis and Futuna
+U010,tablet,email,returning,Korea
+U011,desktop,paid_search,new,Indonesia
+U012,mobile,social,new,Nicaragua
+U013,tablet,email,new,Malaysia
+U014,desktop,organic,returning,Benin
+U015,desktop,direct,new,Cayman Islands
+U016,tablet,email,returning,Barbados
+U017,desktop,social,new,New Zealand
+U018,mobile,email,returning,United States Minor Outlying Islands
+U019,desktop,direct,new,Tanzania
+U020,mobile,paid_search,new,Saint Lucia
+U021,desktop,email,new,Cocos (Keeling) Islands
+U022,tablet,social,new,Saudi Arabia
+U023,desktop,direct,new,Czech Republic
+U024,mobile,direct,new,Venezuela
+U025,tablet,paid_search,returning,Ecuador
+U026,desktop,email,returning,Yemen
+U027,mobile,paid_search,new,Algeria
+U028,desktop,social,returning,Tonga
+U029,tablet,social,new,Nicaragua
+U030,tablet,direct,new,Zambia
+U031,desktop,direct,returning,Uganda
+U032,desktop,paid_search,new,Cuba
+U033,desktop,organic,returning,Christmas Island
+U034,mobile,direct,new,Bahrain
+U035,desktop,paid_search,new,Central African Republic
+U036,mobile,organic,returning,Mauritius
+U037,desktop,direct,returning,Canada
+U038,tablet,social,new,Serbia
+U039,mobile,organic,returning,Belize
+U040,tablet,paid_search,new,Georgia
+U041,tablet,direct,new,Bermuda
+U042,desktop,paid_search,returning,Iraq
+U043,mobile,organic,returning,Moldova
+U044,mobile,organic,new,Bolivia
+U045,desktop,email,returning,Mozambique
+U046,mobile,social,new,Northern Mariana Islands
+U047,tablet,organic,new,Mayotte
+U048,tablet,organic,new,Reunion
+U049,mobile,social,new,Austria
+U050,tablet,social,new,Eritrea
+U051,mobile,social,new,Yemen
+U052,desktop,direct,returning,Micronesia
+U053,mobile,organic,new,Argentina
+U054,tablet,email,returning,Indonesia
+U055,tablet,social,new,Ireland
+U056,mobile,organic,new,Latvia
+U057,tablet,social,new,Bolivia
+U058,mobile,direct,new,Cambodia
+U059,desktop,direct,returning,United States Minor Outlying Islands
+U060,desktop,email,returning,Comoros
+U061,desktop,paid_search,returning,Congo
+U062,tablet,organic,returning,Cote d'Ivoire
+U063,mobile,social,new,Mayotte
+U064,mobile,direct,new,Vietnam
+U065,desktop,organic,new,British Indian Ocean Territory (Chagos Archipelago)
+U066,desktop,social,returning,Heard Island and McDonald Islands
+U067,desktop,organic,new,Ecuador
+U068,tablet,direct,returning,Benin
+U069,tablet,organic,returning,Solomon Islands
+U070,tablet,paid_search,returning,Korea
+U071,desktop,paid_search,new,Angola
+U072,tablet,paid_search,returning,Wallis and Futuna
+U073,desktop,direct,new,Bahrain
+U074,desktop,social,new,El Salvador
+U075,desktop,direct,new,Kuwait
+U076,desktop,direct,returning,Equatorial Guinea
+U077,mobile,paid_search,returning,San Marino
+U078,tablet,email,returning,Dominican Republic
+U079,desktop,organic,returning,Italy
+U080,tablet,email,new,Japan
+U081,tablet,organic,returning,Libyan Arab Jamahiriya
+U082,desktop,social,new,Solomon Islands
+U083,desktop,social,new,France
+U084,mobile,email,new,Liberia
+U085,mobile,organic,new,Croatia
+U086,mobile,email,returning,Slovakia (Slovak Republic)
+U087,tablet,paid_search,new,Saudi Arabia
+U088,mobile,organic,new,Costa Rica
+U089,mobile,organic,new,Jersey
+U090,desktop,paid_search,new,Bahamas
+U091,mobile,direct,new,Bahrain
+U092,desktop,email,returning,Sudan
+U093,desktop,direct,returning,Saint Lucia
+U094,mobile,email,new,Svalbard & Jan Mayen Islands
+U095,tablet,organic,returning,French Guiana
+U096,tablet,paid_search,new,Cayman Islands
+U097,mobile,email,returning,Gabon
+U098,mobile,organic,new,Bulgaria
+U099,desktop,email,returning,Netherlands
+U100,mobile,direct,new,Holy See (Vatican City State)
+U101,desktop,direct,returning,Lesotho
+U102,desktop,direct,new,Svalbard & Jan Mayen Islands
+U103,mobile,direct,new,Sudan
+U104,mobile,organic,returning,Vietnam
+U105,mobile,direct,returning,Albania
+U106,mobile,social,new,Eritrea
+U107,mobile,email,returning,Holy See (Vatican City State)
+U108,desktop,organic,returning,Saint Barthelemy
+U109,tablet,social,new,Paraguay
+U110,mobile,social,new,Rwanda
+U111,mobile,paid_search,returning,Taiwan
+U112,tablet,social,new,Kuwait
+U113,mobile,email,new,San Marino
+U114,tablet,email,returning,Rwanda
+U115,desktop,social,returning,Estonia
+U116,desktop,social,returning,Denmark
+U117,desktop,direct,new,Guatemala
+U118,tablet,organic,new,Saint Pierre and Miquelon
+U119,tablet,direct,new,Monaco
+U120,tablet,direct,new,Monaco
+U121,desktop,organic,new,Canada
+U122,mobile,direct,returning,Reunion
+U123,desktop,direct,returning,Afghanistan
+U124,desktop,direct,new,Eritrea
+U125,mobile,email,returning,Bermuda
+U126,mobile,social,returning,Tanzania
+U127,tablet,social,returning,Czech Republic
+U128,mobile,paid_search,returning,Hong Kong
+U129,mobile,organic,new,Tajikistan
+U130,tablet,social,returning,Montserrat
+U131,tablet,email,new,Sierra Leone
+U132,desktop,email,new,Fiji
+U133,tablet,organic,new,Jamaica
+U134,tablet,email,returning,India
+U135,tablet,paid_search,returning,Gabon
+U136,tablet,organic,new,Kazakhstan
+U137,mobile,organic,new,Guernsey
+U138,tablet,organic,new,Djibouti
+U139,desktop,direct,returning,Tuvalu
+U140,desktop,direct,returning,Northern Mariana Islands
+U141,desktop,social,new,Seychelles
+U142,tablet,organic,returning,Ethiopia
+U143,tablet,social,new,Libyan Arab Jamahiriya
+U144,mobile,social,new,Malawi
+U145,desktop,organic,returning,Syrian Arab Republic
+U146,desktop,paid_search,returning,Uganda
+U147,desktop,direct,returning,Ukraine
+U148,mobile,paid_search,returning,Serbia
+U149,mobile,paid_search,returning,Armenia
+U150,tablet,email,returning,Fiji
+U151,mobile,email,new,Bangladesh
+U152,tablet,email,new,Greenland
+U153,tablet,organic,new,Vietnam
+U154,mobile,social,returning,Paraguay
+U155,mobile,social,returning,Jersey
+U156,tablet,social,new,Malaysia
+U157,desktop,organic,new,Bahrain
+U158,mobile,social,new,Austria
+U159,mobile,email,new,Bosnia and Herzegovina
+U160,tablet,paid_search,new,Dominica
+U161,tablet,paid_search,returning,Kuwait
+U162,mobile,direct,new,Palestinian Territory
+U163,mobile,social,returning,Guernsey
+U164,tablet,paid_search,new,Montserrat
+U165,tablet,direct,new,Colombia
+U166,desktop,paid_search,new,Iceland
+U167,tablet,direct,returning,Palestinian Territory
+U168,tablet,direct,returning,Nicaragua
+U169,desktop,email,new,Belarus
+U170,mobile,social,returning,Paraguay
+U171,mobile,direct,new,Botswana
+U172,tablet,direct,new,Turks and Caicos Islands
+U173,mobile,email,new,Cuba
+U174,tablet,social,returning,Georgia
+U175,desktop,direct,returning,Lebanon
+U176,mobile,direct,new,Zimbabwe
+U177,tablet,organic,returning,Swaziland
+U178,tablet,email,returning,Canada
+U179,desktop,email,returning,Kuwait
+U180,tablet,paid_search,returning,Antigua and Barbuda
+U181,mobile,direct,new,Azerbaijan
+U182,mobile,email,new,Timor-Leste
+U183,desktop,social,returning,United Kingdom
+U184,tablet,social,returning,Syrian Arab Republic
+U185,mobile,paid_search,new,Peru
+U186,mobile,social,returning,Turkmenistan
+U187,desktop,direct,returning,North Macedonia
+U188,desktop,organic,returning,Zimbabwe
+U189,mobile,organic,returning,Germany
+U190,desktop,direct,returning,Kazakhstan
+U191,mobile,paid_search,new,Saudi Arabia
+U192,tablet,paid_search,new,Poland
+U193,tablet,paid_search,new,Saint Martin
+U194,mobile,email,returning,Chad
+U195,mobile,paid_search,new,Sweden
+U196,mobile,email,returning,Swaziland
+U197,desktop,paid_search,returning,Austria
+U198,mobile,direct,new,Mexico
+U199,mobile,social,new,Austria
+U200,mobile,direct,new,Honduras
