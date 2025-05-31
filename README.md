@@ -49,9 +49,6 @@ This project analyzes the performance of a fictional e-commerce platform using *
 - Calculated funnel metrics: conversion rate, repeat rate, revenue  
 - Segmented by device type, traffic source, and geography  
 - Visualized time-based behavior and funnel duration  
-
-📂 *Coming soon: [View Python Code →](#)*
-
 ---
 
 ### 🧠 SQL: Structured KPI Queries
@@ -59,8 +56,6 @@ This project analyzes the performance of a fictional e-commerce platform using *
 - Built schema and tables in `ecommerce_project`  
 - Queried conversion, AOV, funnel steps, and segment behavior  
 - Used `TIMESTAMPDIFF()` to calculate time-to-convert metrics  
-
-📂 *Coming soon: [View SQL Scripts →](#)*
 
 ---
 
